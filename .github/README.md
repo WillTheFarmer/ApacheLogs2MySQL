@@ -171,6 +171,6 @@ MySQL Error Views - most of the verbiage above is about Access Logs. The applica
 ![Screenshot 2024-10-26 164828](https://github.com/user-attachments/assets/485d24ea-2c34-4c01-8452-bd43e0993aab)
 
 ## Schema Objects - Tables, Views, Store Procedures and Stored Functions
-Images of the apache_logs schema objects. Access and Error log attributes have been broken into seperate entity tables. Each table populated with the unique values of the entity. Entity Relationship Diagram will be posted soon.
+Images of the apache_logs schema objects. Access and Error log attributes have been broken into separate entity tables. Each table populated with the unique values of the entity. Entity Relationship Diagram will be posted soon.
 
 ![alt text](<Screenshot 2024-11-04 142923.png>) ![alt text](<Screenshot 2024-11-04 142851.png>) ![alt text](<Screenshot 2024-11-04 142957.png>)
